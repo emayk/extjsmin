@@ -1,0 +1,9 @@
+{
+	"name": "wlukin/extjsmin",
+	"description": "Sencha Ext Js Min Library",
+	"homepage": "http://www.sencha.com/",
+	"license": "GPL-3.0",
+	"support": {
+        "forum": "http://www.sencha.com/forum/"
+	}
+}
